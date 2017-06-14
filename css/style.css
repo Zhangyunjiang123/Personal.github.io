@@ -489,7 +489,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 	background: #fff;
 }
 .timeline>li .timeline-image h4 {
-	margin-top: 20px;
+	margin-top: 12px;
 	font-size: 14px;
 	text-transform: uppercase;
 }
